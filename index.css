@@ -1,0 +1,25 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+.link {
+    background-color: rgba(161, 161, 161, 0.418);
+    border-radius: 5px;
+    width: 30%;
+    height: 30px;
+    padding:5px;
+    margin: 15px;
+   
+
+}
+
+.link:hover{
+    background-color: rgba(128, 128, 128, 0.44);
+    cursor: pointer;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
