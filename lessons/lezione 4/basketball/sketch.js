@@ -10,7 +10,7 @@ function draw() {
   drawBasketball (200,200,100);
   drawRotateBasketball (200,200,100,angle);
 
-  angle +=0.07; //cosa vuol dire? --> velocità
+  angle +=0.007; //cosa vuol dire? --> velocità
 
 }
 
